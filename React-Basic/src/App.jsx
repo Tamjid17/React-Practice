@@ -1,9 +1,9 @@
 function App() {
-
+  const bye = 'bye bye'
   return (
     <>
     <Greet />
-    <h1>Hello Hi bye bye</h1>
+    <h1>Hello Hi {bye}</h1>
     </>
   )
 }
